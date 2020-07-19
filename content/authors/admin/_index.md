@@ -35,7 +35,7 @@ education:
     institution: University of Cambridge
     year: 1997
   - course: First-class BA in Physics & Theoretical Physics
-    institution: Massachusetts Institute of Technology
+    institution: University of Cambridge
     year: 1995
 
 # Social/Academic Networking

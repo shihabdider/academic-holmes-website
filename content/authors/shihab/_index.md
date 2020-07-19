@@ -20,6 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Shihab is a PhD student working on a feature rich human genome browser.
 
+interests:
+
 education:
   courses:
   - course: B.A in Chemistry/Bioinformatics

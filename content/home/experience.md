@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -17,28 +17,44 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Associate Professor"
+  company = "University of California, Berkeley"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2004"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Lecturer in Bioinformatics"
+  company = "University of Oxford"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Oxford"
+  date_start = "2002"
+  date_end = "2004"
 
+[[experience]]
+  title = "Researcher"
+  company = "European Molecular Biology Laboratory"
+  company_url = ""
+  location = "Hinxton, UK"
+  date_start = "2002"
+  date_end = ""
+
+[[experience]]
+  title = "Associate"
+  company = "Howard Hughes Medical Institute"
+  company_url = ""
+  location = "Berekeley Drosophila Genome Project"
+  date_start = "1999"
+  date_end = "2002"
+
+[[experience]]
+  title = "Fulbright-Zeneca Research Fellow"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "1999"
+  date_end = ""
 +++

@@ -67,8 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigator
 ---
 
 The Holmes Lab brings techniques from machine learning, statistical linguistics, phylogenetics, and web development to bear on the interpretation and analysis of genomic data. Examples include the application of context-free grammars to understanding DNA and RNA structure; the use of phylogenetic methods in genome annotation, and to detect recombination breakpoints; the development of machine learning algorithms for bioinformatics models; the reconstruction of insertion, deletion and transposition events in genome evolutionary histories; statistical algorithms for metagenomics species distribution analysis; and dynamic-HTML web applications for collaborative genomic data analysis.

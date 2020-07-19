@@ -22,11 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Using computers to investigate genomes, their evolution and ecology.
-- Developing the statistical bioinformatics tools for this, e.g. phylogenetic alignment;
-  - stochastic grammars, string transducers and tree transducers;
-  - multiple alignment of RNA;
-  - virus and transposon annotation & analysis.
-- Developing genomics infrastructure, such as the JBrowse genome browser or the Biomake build tool.
+- Developing the statistical bioinformatics tools for this.
+- Developing genomics infrastructure.
 - Synthetic biology, especially RNA engineering.
 
 education:

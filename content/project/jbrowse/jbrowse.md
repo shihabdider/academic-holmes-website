@@ -1,7 +1,6 @@
 ---
 title: Jbrowse
-summary: An example of linking directly to an external project website using 
-`external_link`.
+summary: An example of linking directly to an external project website using `external_link`.
 # tags:
 # - Demo
 date: 2020-07-19T20:42:39-04:00

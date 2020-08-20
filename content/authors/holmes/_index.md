@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Holmes Lab
+title: Ian Holmes
 
 # Username (this should match the folder name)
 authors:
-- admin
+- holmes
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-#role: Associate Professor, Bioengineering
+role: Associate Professor, Bioengineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.berkeley.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Using computers to investigate genomes, their evolution and ecology.
@@ -26,17 +26,17 @@ interests:
 - Developing genomics infrastructure.
 - Synthetic biology, especially RNA engineering.
 
-#education:
-#  courses:
-#  - course: PhD in Genetics
-#    institution: University of Cambridge
-#    year: 1998
-#  - course: Honorary MA
-#    institution: University of Cambridge
-#    year: 1997
-#  - course: First-class BA in Physics & Theoretical Physics
-#    institution: University of Cambridge
-#    year: 1995
+education:
+  courses:
+  - course: PhD in Genetics
+    institution: University of Cambridge
+    year: 1998
+  - course: Honorary MA
+    institution: University of Cambridge
+    year: 1997
+  - course: First-class BA in Physics & Theoretical Physics
+    institution: University of Cambridge
+    year: 1995
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,8 +66,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Principal Investigator
+user_groups:
+- Principal Investigator
 ---
 
 The Holmes Lab brings techniques from machine learning, statistical linguistics, phylogenetics, and web development to bear on the interpretation and analysis of genomic data. Examples include the application of context-free grammars to understanding DNA and RNA structure; the use of phylogenetic methods in genome annotation, and to detect recombination breakpoints; the development of machine learning algorithms for bioinformatics models; the reconstruction of insertion, deletion and transposition events in genome evolutionary histories; statistical algorithms for metagenomics species distribution analysis; and dynamic-HTML web applications for collaborative genomic data analysis.
